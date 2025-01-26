@@ -14,5 +14,4 @@ def get_random_otvet_line():
 
 def generate_random_ip():
     from random import randint
-    
-    return f'IP-{randint(0, 255)}.{randint(0, 255)}.{randint(0, 255)}.{randint(0, 255)}'
+    return f'{randint(0, 255)}.{randint(0, 255)}.{randint(0, 255)}.{randint(0, 255)}'
