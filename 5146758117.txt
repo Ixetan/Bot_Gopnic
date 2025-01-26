@@ -1,5 +1,0 @@
-ip=11.94.219.150
-first_name=Игнатий
-last_name=Демин
-username=Ixetan
-language_code=ru
